@@ -1,17 +1,17 @@
 body {
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(137, 231, 255);
   }
   
   h1 {
-    color: rgb(255, 208, 0);
+    color: rgb(0, 0, 0);
     margin-left: 20px;
     font-size: 30px;
   }
   #para1 {
     text-align: center;
-    color: rgb(0, 255, 0);
+    color: rgb(142, 255, 142);
   }
   .center {
     text-align: center;
-    color: rgb(0, 195, 255);
+    color: rgb(255, 124, 255);
   }
