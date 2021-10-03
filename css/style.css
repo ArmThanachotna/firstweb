@@ -3,13 +3,14 @@ body {
   }
   
   h1 {
+    text-align: center;
     color: rgb(0, 0, 0);
     margin-left: 20px;
     font-size: 30px;
   }
   #para1 {
     text-align: center;
-    color: rgb(142, 255, 142);
+    color: rgb(255, 225, 52);
   }
   .center {
     text-align: center;
